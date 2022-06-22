@@ -16,6 +16,6 @@ public abstract class AbstractCommand implements commands.Command {
 
     public String getDescription() {
         return description;
-    }
+    }//nljn
 
 }
